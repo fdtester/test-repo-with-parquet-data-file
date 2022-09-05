@@ -1,0 +1,9 @@
+{
+   "name":"package-with-parquet-data",
+   "resources":[
+      {
+         "name":"r-parquet-data",
+         "path":"data/table.parq"
+      }
+   ]
+}
