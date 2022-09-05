@@ -3,7 +3,7 @@
    "resources":[
       {
          "name":"r-parquet-data",
-         "path":"data/table.parq"
+         "path":"table.parq"
       }
    ]
 }
